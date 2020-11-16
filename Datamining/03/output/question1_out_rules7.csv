@@ -1,0 +1,4 @@
+support,confidence,antecedents,consequents
+0.2,0.7142857142857143,frozenset({'major_philosophy'}),frozenset({'age_26...30'})
+0.16,0.7999999999999999,frozenset({'status_Ph.D'}),frozenset({'age_26...30'})
+0.16,1.0,frozenset({'age_21...25'}),frozenset({'status_junior'})

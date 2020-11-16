@@ -1,0 +1,2 @@
+support,confidence,antecedents,consequents
+0.16,1.0,frozenset({'age_21...25'}),frozenset({'status_junior'})

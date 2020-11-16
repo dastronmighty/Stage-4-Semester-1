@@ -1,0 +1,21 @@
+support,itemsets
+0.24,frozenset({'major_French'})
+0.28,frozenset({'major_philosophy'})
+0.16,frozenset({'status_M.S'})
+0.2,frozenset({'status_Ph.D'})
+0.44,frozenset({'status_junior'})
+0.16,frozenset({'status_senior'})
+0.36,frozenset({'age_16...20'})
+0.16,frozenset({'age_21...25'})
+0.32,frozenset({'age_26...30'})
+0.16,frozenset({'age_over 30'})
+0.24,frozenset({'gpa_2.8_3.2'})
+0.48,frozenset({'gpa_3.2_3.6'})
+0.28,frozenset({'gpa_3.6_4.0'})
+0.2,"frozenset({'major_philosophy', 'age_26...30'})"
+0.16,"frozenset({'status_Ph.D', 'age_26...30'})"
+0.24,"frozenset({'age_16...20', 'status_junior'})"
+0.16,"frozenset({'age_21...25', 'status_junior'})"
+0.2,"frozenset({'gpa_3.2_3.6', 'status_junior'})"
+0.2,"frozenset({'age_16...20', 'gpa_3.2_3.6'})"
+0.16,"frozenset({'gpa_3.2_3.6', 'age_26...30'})"
